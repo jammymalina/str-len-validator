@@ -1,7 +1,7 @@
 {
   "name": "str-len-validator",
-  "version": "1.0.0",
-  "description": "String lenght validator",
+  "version": "1.0.1",
+  "description": "String length validator",
   "main": "dist/lib.js",
   "scripts": {
     "build": "rm -rf dist && npm test && tsc",
